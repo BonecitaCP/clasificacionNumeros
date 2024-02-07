@@ -11,7 +11,7 @@ Trabajo de maestría UIDE - Modelos de datos
 #Fuentes de datos
  - mnist_test.csv
  -   test_df = pd.read_csv('./data/mnist_test.csv')
- - mnist_train.csv
+ - mnist_train.csv - el archivo no fue subido al espacio ya que excede el tamaño permitido
  -   train_df = pd.read_csv('./data/mnist_train.csv')
 
 #Liberias Utilizadas
